@@ -6,6 +6,7 @@ The model is trained for 2 ways :
 1) For each day (Monday-Tuesday-Wednesday ...)
 2) For sum of all days in once.
 
+The detailed paper which includes data analysis and deep learning architecture can be seen in in files.
 REFERENCES 
 
 [1] P. Kaushik, S. Singh and P. Yadav, "Traffic Prediction in Telecom Systems Using Deep Learning," 2018 7th International Conference on Reliability, Infocom Technologies and Optimization (Trends and Future Directions) (ICRITO), Noida, India, 2018, pp. 302-307, doi: 10.1109/ICRITO.2018.8748386
