@@ -1,5 +1,5 @@
-# DeepLevel
-DeepLevel is created for predicting mobile traffic level using Deep Learning.Dataset includes 7 days mobile traffic activity of Milan in 2013.
+# Mobile Traffic Levels Prediction of Urban Area using Convolutional Neural Network
+This project is created for predicting mobile traffic level using Deep Learning. Dataset includes 7 days mobile traffic activity of Milan in 2013.
 
 Project is executed part to part.It includes analysis of data,preprocessing,neural network architecture and results.
 The model is trained for 2 ways : 
